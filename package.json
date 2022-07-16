@@ -1,5 +1,5 @@
 {
-  "name": "wiring-pi",
+  "name": "wiring-pi-pwm",
   "version": "0.1.2",
   "description": "Bindings to wiringPi",
   "main": "lib/exports.js",
@@ -19,6 +19,6 @@
     "raspberrypi",
     "bcm2835"
   ],
-  "author": "Igor Soarez <igorsoarez@gmail.com>",
+  "author": "Igor Soarez <igorsoarez@gmail.com>&apollorobot(https://apollo.mnoiot.com)",
   "license": "BSD"
 }
